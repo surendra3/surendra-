@@ -11,4 +11,3 @@ class person:
 personName=person()
 personName.setFullName("surya","chowdary")
 personName.printFullName()
-//unknown
